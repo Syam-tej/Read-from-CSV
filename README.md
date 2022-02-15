@@ -26,8 +26,8 @@ Display the Rows.
 End the program
 ## PROGRAM:
 ```
-##Developed by:Manoj Guna Sundar Tella.
-##REGISTER NUMBER: 212221240026
+##Developed by:P.SYAM TEJ.
+##REGISTER NUMBER: 212221240056
 import pandas as pd
 df = pd.read_csv('nba.csv')
 print(df.head(10))
