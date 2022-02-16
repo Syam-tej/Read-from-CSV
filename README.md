@@ -37,7 +37,7 @@ print("Row",len(df.axes[1]))
 ```
 
 ## OUTPUT:
-![Github logo](read.png)
+![Github logo](sm.png)
 
 ## RESULT:
 Therefore the program is successfully executed to read csv file and access the data in it.
